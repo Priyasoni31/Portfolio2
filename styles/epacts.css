@@ -1,0 +1,726 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+.link{
+  text-decoration: none;
+}
+
+.link:hover{
+  text-decoration: underline solid 1.4px #000 ;
+}
+.link-endpages{
+  text-decoration: none;
+}
+
+body {
+  width: 151.2rem;
+}.epacts-UxG {
+  width: 100%;
+  height: 494.3rem;
+  background-color: #ffffff;
+}
+.epacts-UxG .div-1xC {
+  box-sizing: border-box;
+  padding: 2.6rem 0rem 7.503rem 0rem;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.epacts-UxG .div-1xC .frame-10000049502-2-k96 {
+  margin: 0rem 0rem 6.4rem 11.6rem;
+  width: 18.5rem;
+  height: 3.8rem;
+  cursor: pointer;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.epacts-UxG .div-1xC .main-eEU {
+  width: 100%;
+  height: 473.9969rem;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.epacts-UxG .div-1xC .main-eEU .frame-124-nrU {
+  width: 128rem;
+  height: 473.9969rem;
+  position: absolute;
+  left: 11.6rem;
+  top: 0;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.epacts-UxG .div-1xC .main-eEU .frame-124-nrU .info-KbW {
+  width: 100%;
+  height: 34rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.epacts-UxG .div-1xC .main-eEU .frame-124-nrU .info-KbW .divw-node-c8a9b103-5d43-ce87-7831-12c439ab055f-1ddfd172-gS4 {
+  margin-right: 41.8rem;
+  box-sizing: border-box;
+  padding-top: 0.95rem;
+  width: 28.2rem;
+  flex-shrink: 0;
+}
+.epacts-UxG .div-1xC .main-eEU .frame-124-nrU .info-KbW .divw-node-c8a9b103-5d43-ce87-7831-12c439ab055f-1ddfd172-gS4 .div-C9W {
+  margin: 0rem 0rem 4.25rem 0.023rem;
+  width: 26.4rem;
+  height: 7.4rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  font-size: 7.4rem;
+  font-weight: 500;
+  line-height: 1;
+  color: #000000;
+  font-family: 'Public Sans', 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+}
+.epacts-UxG .div-1xC .main-eEU .frame-124-nrU .info-KbW .divw-node-c8a9b103-5d43-ce87-7831-12c439ab055f-1ddfd172-gS4 .a-3vp {
+  width: 23rem;
+  height: 3rem;
+  overflow: hidden;
+  position: relative;
+}
+.epacts-UxG .div-1xC .main-eEU .frame-124-nrU .info-KbW .divw-node-c8a9b103-5d43-ce87-7831-12c439ab055f-1ddfd172-gS4 .a-3vp .view-website-16x {
+  margin-bottom: 0.4797rem;
+  cursor: pointer;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 300;
+  line-height: 1.3888888889;
+  color: #000000;
+  font-family: 'Public Sans', 'Source Sans Pro';
+  white-space: nowrap;
+}
+.epacts-UxG .div-1xC .main-eEU .frame-124-nrU .info-KbW .divw-node-c8a9b103-5d43-ce87-7831-12c439ab055f-1ddfd172-gS4 .a-3vp .div-j2x  {
+  margin-left: 0.023rem;
+  width: 100%;
+  height: 0.1rem;
+  background-color: rgba(0, 0, 0, 0.3000000119);
+
+}
+
+.epacts-UxG .div-1xC .main-eEU .frame-124-nrU .info-KbW .divw-node-83fa2830-a68c-3230-2670-8e874be5d0d7-1ddfd172-45E {
+  width: 58rem;
+  height: 100%;
+  row-gap: 4.2rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.epacts-UxG .div-1xC .main-eEU .frame-124-nrU .info-KbW .divw-node-83fa2830-a68c-3230-2670-8e874be5d0d7-1ddfd172-45E .div-mkL {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.epacts-UxG .div-1xC .main-eEU .frame-124-nrU .info-KbW .divw-node-83fa2830-a68c-3230-2670-8e874be5d0d7-1ddfd172-45E .div-mkL .auto-group-bxgu-8at {
+  box-sizing: border-box;
+  padding-bottom: 0.9rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.epacts-UxG .div-1xC .main-eEU .frame-124-nrU .info-KbW .divw-node-83fa2830-a68c-3230-2670-8e874be5d0d7-1ddfd172-45E .div-mkL .auto-group-bxgu-8at .year-Gh6 {
+  margin-bottom: 0.9rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #000000;
+  font-family: Public Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.epacts-UxG .div-1xC .main-eEU .frame-124-nrU .info-KbW .divw-node-83fa2830-a68c-3230-2670-8e874be5d0d7-1ddfd172-45E .div-mkL .auto-group-bxgu-8at .item-2022-oS8 {
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 300;
+  line-height: 1.3888888889;
+  color: #000000;
+  font-family: Public Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.epacts-UxG .div-1xC .main-eEU .frame-124-nrU .info-KbW .divw-node-83fa2830-a68c-3230-2670-8e874be5d0d7-1ddfd172-45E .div-mkL .div-LBA {
+  width: 100%;
+  height: 0.1rem;
+  background-color: rgba(0, 0, 0, 0.3000000119);
+  flex-shrink: 0;
+}
+.epacts-UxG .div-1xC .main-eEU .frame-124-nrU .info-KbW .divw-node-83fa2830-a68c-3230-2670-8e874be5d0d7-1ddfd172-45E .div-5uS {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.epacts-UxG .div-1xC .main-eEU .frame-124-nrU .info-KbW .divw-node-83fa2830-a68c-3230-2670-8e874be5d0d7-1ddfd172-45E .div-5uS .auto-group-drck-Sjz {
+  box-sizing: border-box;
+  padding-bottom: 0.9rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.epacts-UxG .div-1xC .main-eEU .frame-124-nrU .info-KbW .divw-node-83fa2830-a68c-3230-2670-8e874be5d0d7-1ddfd172-45E .div-5uS .auto-group-drck-Sjz .services-bct {
+  margin-bottom: 0.9rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #000000;
+  font-family: Public Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.epacts-UxG .div-1xC .main-eEU .frame-124-nrU .info-KbW .divw-node-83fa2830-a68c-3230-2670-8e874be5d0d7-1ddfd172-45E .div-5uS .auto-group-drck-Sjz .website-design-development-vv4 {
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 300;
+  line-height: 1.3888888889;
+  color: #000000;
+  font-family: Public Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.epacts-UxG .div-1xC .main-eEU .frame-124-nrU .info-KbW .divw-node-83fa2830-a68c-3230-2670-8e874be5d0d7-1ddfd172-45E .div-5uS .div-T9J {
+  width: 100%;
+  height: 0.1rem;
+  background-color: rgba(0, 0, 0, 0.3000000119);
+  flex-shrink: 0;
+}
+.epacts-UxG .div-1xC .main-eEU .frame-124-nrU .info-KbW .divw-node-83fa2830-a68c-3230-2670-8e874be5d0d7-1ddfd172-45E .div-Csa {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.epacts-UxG .div-1xC .main-eEU .frame-124-nrU .info-KbW .divw-node-83fa2830-a68c-3230-2670-8e874be5d0d7-1ddfd172-45E .div-Csa .auto-group-dj7e-mvg {
+  box-sizing: border-box;
+  padding-bottom: 0.9rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.epacts-UxG .div-1xC .main-eEU .frame-124-nrU .info-KbW .divw-node-83fa2830-a68c-3230-2670-8e874be5d0d7-1ddfd172-45E .div-Csa .auto-group-dj7e-mvg .intro-jMi {
+  margin-bottom: 0.9rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #000000;
+  font-family: Public Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.epacts-UxG .div-1xC .main-eEU .frame-124-nrU .info-KbW .divw-node-83fa2830-a68c-3230-2670-8e874be5d0d7-1ddfd172-45E .div-Csa .auto-group-dj7e-mvg .e-pacts-provides-enterprise-class-it-security-services-for-consultancy-sustenance-and-implementation-sTv {
+  max-width: 46.8rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 300;
+  line-height: 1.3888888889;
+  color: #000000;
+  font-family: Public Sans, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.epacts-UxG .div-1xC .main-eEU .frame-124-nrU .info-KbW .divw-node-83fa2830-a68c-3230-2670-8e874be5d0d7-1ddfd172-45E .div-Csa .div-wig {
+  width: 100%;
+  height: 0.1rem;
+  background-color: rgba(0, 0, 0, 0.3000000119);
+  flex-shrink: 0;
+}
+.epacts-UxG .div-1xC .main-eEU .frame-124-nrU .auto-group-tq3s-t88 {
+  box-sizing: border-box;
+  padding: 113.45rem 0rem 17.5rem 0rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.epacts-UxG .div-1xC .main-eEU .frame-124-nrU .auto-group-tq3s-t88 .frame-134-DRJ {
+  margin: 0rem 2rem 18.25rem 0rem;
+  width: calc(100% - 2rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.epacts-UxG .div-1xC .main-eEU .frame-124-nrU .auto-group-tq3s-t88 .frame-134-DRJ .about-MXW {
+  margin-right: 39.6rem;
+  display: flex;
+  font-size: 5.5rem;
+  font-weight: 500;
+  line-height: 1.3818181818;
+  color: #000000;
+  font-family: Public Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.epacts-UxG .div-1xC .main-eEU .frame-124-nrU .auto-group-tq3s-t88 .frame-134-DRJ .epacts-offers-a-comprehensive-range-of-cloud-services-and-technology-solutions-built-to-solve-real-world-problems-for-businesses-spanning-different-sizes-industries-and-geographies-epacts-consultancy-and-tech-services-llp-is-an-emerging-multi-cloud-managed-services-provider-for-worlds-leading-brands-including-aws-azure-google-and-more-epacts-comprises-of-highly-qualified-and-experienced-professionals-all-geared-up-to-support-cloud-security-technologies-Us2 {
+  max-width: 70.6rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 300;
+  line-height: 1.3888888889;
+  color: #000000;
+  font-family: Public Sans, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.epacts-UxG .div-1xC .main-eEU .frame-124-nrU .auto-group-tq3s-t88 .frame-134-DRJ .epacts-offers-a-comprehensive-range-of-cloud-services-and-technology-solutions-built-to-solve-real-world-problems-for-businesses-spanning-different-sizes-industries-and-geographies-epacts-consultancy-and-tech-services-llp-is-an-emerging-multi-cloud-managed-services-provider-for-worlds-leading-brands-including-aws-azure-google-and-more-epacts-comprises-of-highly-qualified-and-experienced-professionals-all-geared-up-to-support-cloud-security-technologies-Us2 .epacts-offers-a-comprehensive-range-of-cloud-services-and-technology-solutions-built-to-solve-real-world-problems-for-businesses-spanning-different-sizes-industries-and-geographies-epacts-consultancy-and-tech-services-llp-is-an-emerging-multi-cloud-managed-services-provider-for-worlds-leading-brands-including-aws-azure-google-and-more-epacts-comprises-of-highly-qualified-and-experienced-professionals-all-geared-up-to-support-cloud-security-technologies-Us2-sub-0 {
+  font-size: 1.8rem;
+  font-weight: 300;
+  line-height: 1.3888888889;
+  color: #000000;
+  font-family: Public Sans, 'Source Sans Pro';
+}
+.epacts-UxG .div-1xC .main-eEU .frame-124-nrU .auto-group-tq3s-t88 .frame-134-DRJ .epacts-offers-a-comprehensive-range-of-cloud-services-and-technology-solutions-built-to-solve-real-world-problems-for-businesses-spanning-different-sizes-industries-and-geographies-epacts-consultancy-and-tech-services-llp-is-an-emerging-multi-cloud-managed-services-provider-for-worlds-leading-brands-including-aws-azure-google-and-more-epacts-comprises-of-highly-qualified-and-experienced-professionals-all-geared-up-to-support-cloud-security-technologies-Us2 .epacts-offers-a-comprehensive-range-of-cloud-services-and-technology-solutions-built-to-solve-real-world-problems-for-businesses-spanning-different-sizes-industries-and-geographies-epacts-consultancy-and-tech-services-llp-is-an-emerging-multi-cloud-managed-services-provider-for-worlds-leading-brands-including-aws-azure-google-and-more-epacts-comprises-of-highly-qualified-and-experienced-professionals-all-geared-up-to-support-cloud-security-technologies-Us2-sub-1 {
+  font-size: 1.8rem;
+  font-weight: 300;
+  line-height: 1.3888888889;
+  color: #000000;
+  font-family: Public Sans, 'Source Sans Pro';
+}
+.epacts-UxG .div-1xC .main-eEU .frame-124-nrU .auto-group-tq3s-t88 .frame-134-DRJ .epacts-offers-a-comprehensive-range-of-cloud-services-and-technology-solutions-built-to-solve-real-world-problems-for-businesses-spanning-different-sizes-industries-and-geographies-epacts-consultancy-and-tech-services-llp-is-an-emerging-multi-cloud-managed-services-provider-for-worlds-leading-brands-including-aws-azure-google-and-more-epacts-comprises-of-highly-qualified-and-experienced-professionals-all-geared-up-to-support-cloud-security-technologies-Us2 .epacts-offers-a-comprehensive-range-of-cloud-services-and-technology-solutions-built-to-solve-real-world-problems-for-businesses-spanning-different-sizes-industries-and-geographies-epacts-consultancy-and-tech-services-llp-is-an-emerging-multi-cloud-managed-services-provider-for-worlds-leading-brands-including-aws-azure-google-and-more-epacts-comprises-of-highly-qualified-and-experienced-professionals-all-geared-up-to-support-cloud-security-technologies-Us2-sub-2 {
+  font-size: 1.8rem;
+  font-weight: 300;
+  line-height: 1.3888888889;
+  color: #000000;
+  font-family: Public Sans, 'Source Sans Pro';
+}
+.epacts-UxG .div-1xC .main-eEU .frame-124-nrU .auto-group-tq3s-t88 .display-3UC {
+  margin: 0rem 0.15rem 17.5rem 0.15rem;
+  box-sizing: border-box;
+  padding: 1.8391rem 21.5621rem;
+  width: calc(100% - 0.3rem);
+  height: 77.8rem;
+  background-size: 100.018% 113.892%;
+  background-position: -0.0383rem -10.7721rem;
+  background-image: url('../assets/bg.png');
+  flex-shrink: 0;
+}
+.epacts-UxG .div-1xC .main-eEU .frame-124-nrU .auto-group-tq3s-t88 .display-3UC .rectangle-2714-x5N {
+  width: 12.9216rem;
+  height: 55.3955rem;
+  filter: blur(1.95rem);
+  background: linear-gradient(179.92deg, rgba(8, 8, 10, 0.200000003) 9.94%, rgba(8, 8, 10, 0) 97.35%);
+}
+.epacts-UxG .div-1xC .main-eEU .frame-124-nrU .auto-group-tq3s-t88 .display-3UC .display-3UC-bg {
+  width: 127.7rem;
+  height: 77.8rem;
+  position: relative;
+  background-image: url('REPLACE_IMAGE:04c755b80598599eac070db024e30b463e4210ee');
+}
+.epacts-UxG .div-1xC .main-eEU .frame-124-nrU .auto-group-tq3s-t88 .swto-kmv {
+  margin: 0 0.1rem;
+  width: calc(100% - 0.2rem);
+  height: 74.3rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.epacts-UxG .div-1xC .main-eEU .frame-124-nrU .auto-group-tq3s-t88 .swto-kmv .olbkx61-1-6qn {
+  width: 100%;
+  height: 74.3rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.epacts-UxG .div-1xC .main-eEU .frame-124-nrU .auto-group-tq3s-t88 .swto-kmv .strengths-usability-eMW {
+  position: absolute;
+  text-align: center;
+  font-size: 5.5rem;
+  font-weight: 500;
+  color: #000000;
+  font-family: 'Public Sans', 'Source Sans Pro';
+ 
+}
+.epacts-UxG .div-1xC .main-eEU .frame-124-nrU .more-work-Xw6 {
+  width: 100%;
+  row-gap: 5.5rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.epacts-UxG .div-1xC .main-eEU .frame-124-nrU .more-work-Xw6 .more-work-VN8 {
+  display: flex;
+  font-size: 5.5rem;
+  font-weight: 500;
+  line-height: 1.3818181818;
+  color: #000000;
+  font-family: Public Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.epacts-UxG .div-1xC .main-eEU .frame-124-nrU .more-work-Xw6 .a-SHN {
+  box-sizing: border-box;
+  padding-right: 2.1rem;
+  width: 100%;
+  height: 41.2984rem;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.epacts-UxG .div-1xC .main-eEU .frame-124-nrU .more-work-Xw6 .a-SHN .div-auN {
+  margin-right: 7rem;
+  box-sizing: border-box;
+  padding: 5rem 7.261rem 0rem 7.259rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  background-color: #f0f0f0;
+  flex-shrink: 0;
+}
+.epacts-UxG .div-1xC .main-eEU .frame-124-nrU .more-work-Xw6 .a-SHN .div-auN .b931bfd0a706776aa0060eportfilio201-min-p-800jpg-WY8 {
+  width: 58.0797rem;
+  height: 36.2984rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.epacts-UxG .div-1xC .main-eEU .frame-124-nrU .more-work-Xw6 .a-SHN .frame-1410114916-RQC {
+  margin: 9.2rem 0rem 12.398rem 0rem;
+  height: calc(100% - 21.5984rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.epacts-UxG .div-1xC .main-eEU .frame-124-nrU .more-work-Xw6 .a-SHN .frame-1410114916-RQC .frame-1410114915-khN {
+  margin-bottom: 4.2rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.epacts-UxG .div-1xC .main-eEU .frame-124-nrU .more-work-Xw6 .a-SHN .frame-1410114916-RQC .frame-1410114915-khN .panoram-cgi-uqA {
+  margin-bottom: 0.9rem;
+  display: flex;
+  font-size: 3.2rem;
+  font-weight: 500;
+  line-height: 1.375;
+  color: #000000;
+  font-family: Public Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.epacts-UxG .div-1xC .main-eEU .frame-124-nrU .more-work-Xw6 .a-SHN .frame-1410114916-RQC .frame-1410114915-khN .software-design-product-design-FPE {
+  display: flex;
+  font-size: 2rem;
+  font-weight: 300;
+  line-height: 1.35;
+  letter-spacing: 0.06rem;
+  text-transform: uppercase;
+  color: #000000;
+  font-family: Public Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.epacts-UxG .div-1xC .main-eEU .frame-124-nrU .more-work-Xw6 .a-SHN .frame-1410114916-RQC .panoram-cgi-is-a-boutique-visualization-studio-specializing-in-3d-renderings-and-animations-for-luxury-brands-in-architecture-interiors-and-golf-course-sectors-mMa {
+  max-width: 46.3rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 300;
+  line-height: 1.3888888889;
+  color: #000000;
+  font-family: Public Sans, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.epacts-UxG .div-1xC .main-eEU .frame-124-nrU .more-work-Xw6 .a-Rwv {
+  box-sizing: border-box;
+  padding-right: 2.2rem;
+  width: 100%;
+  height: 41.2984rem;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.epacts-UxG .div-1xC .main-eEU .frame-124-nrU .more-work-Xw6 .a-Rwv .div-BgC {
+  margin-right: 7rem;
+  box-sizing: border-box;
+  padding: 5.003rem 7.4rem 0rem 7.3rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  background-color: #f0f0f0;
+  flex-shrink: 0;
+}
+.epacts-UxG .div-1xC .main-eEU .frame-124-nrU .more-work-Xw6 .a-Rwv .div-BgC .b932267ee4c7e299e0ef61portfolio202-min-p-800jpg-KnQ {
+  width: 57.9rem;
+  height: 36.3rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.epacts-UxG .div-1xC .main-eEU .frame-124-nrU .more-work-Xw6 .a-Rwv .frame-1410114920-3iQ {
+  margin: 9.303rem 0rem 10.095rem 0rem;
+  height: calc(100% - 19.3984rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.epacts-UxG .div-1xC .main-eEU .frame-124-nrU .more-work-Xw6 .a-Rwv .frame-1410114920-3iQ .frame-1410114919-BJp {
+  margin-bottom: 4.2rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.epacts-UxG .div-1xC .main-eEU .frame-124-nrU .more-work-Xw6 .a-Rwv .frame-1410114920-3iQ .frame-1410114919-BJp .redesign-jr8 {
+  margin-bottom: 0.9rem;
+  display: flex;
+  font-size: 3.2rem;
+  font-weight: 500;
+  line-height: 1.375;
+  color: #000000;
+  font-family: Public Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.epacts-UxG .div-1xC .main-eEU .frame-124-nrU .more-work-Xw6 .a-Rwv .frame-1410114920-3iQ .frame-1410114919-BJp .ui-redesign-ey6 {
+  display: flex;
+  font-size: 2rem;
+  font-weight: 300;
+  line-height: 1.2;
+  letter-spacing: 0.3rem;
+  text-transform: uppercase;
+  color: #000000;
+  font-family: Public Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.epacts-UxG .div-1xC .main-eEU .frame-124-nrU .more-work-Xw6 .a-Rwv .frame-1410114920-3iQ .redesigned-software-websites-and-apps-of-some-of-the-most-liked-intuitive-products-in-the-market-note-these-designs-are-non-functional-and-do-not-belong-to-the-respective-brands-ykU {
+  max-width: 46.2rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 300;
+  line-height: 1.3888888889;
+  color: #000000;
+  font-family: Public Sans, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.epacts-UxG .div-1xC .main-eEU .frame-284-d4L {
+  width: 151.2rem;
+  height: 64.6rem;
+  position: absolute;
+  left: 0;
+  top: 57rem;
+  overflow: hidden;
+  background: linear-gradient(180deg, rgba(200, 98, 193, 0.6000000238) 0%, rgba(57, 108, 170, 0.6000000238) 100%);
+}
+.epacts-UxG .div-1xC .main-eEU .frame-284-d4L .frame-284-1-xsJ {
+  width: 151.2rem;
+  height: 64.6rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+
+
+
+
+
+
+
+
+
+
+:root {
+  --font-size: 1.4rem;
+  --bg1: #ffffff;
+  --blue: #3498db;
+  --green: #2ecc71;
+  --purple: #9b59b6;
+  --gold: #f1c40f;
+  --red: #e74c3c;
+  --orange: #e67e22;
+  --shadow1: 0 2px 4px #00000026, 0 3px 6px #0000001f;
+  --shadow2: 0 2px 6px #00000044, 0 4px 7px #00000022;
+}
+
+main {
+  padding-top: 5rem;
+  margin-left: -5rem;
+  
+}
+
+.infoGraphic {
+  font-size: var(--font-size);
+  width: 100%;
+  flex-wrap: wrap;
+  justify-content: center; 
+  
+}
+.infoGraphic li {
+  position: relative;
+  width: 30rem;
+  height: 30rem;
+  margin: 0 5rem;
+  background: var(--bg1);
+  border-radius: 0.5em;
+  padding: 0.5em;
+  z-index: 0;
+  transition: all 0.2s;
+  cursor: pointer;
+  display: inline-flex;
+  
+}
+.infoGraphic li .numberWrap {
+  position: absolute;
+}
+.infoGraphic li .number {
+  font-family: "maven pro", sans-serif;
+  font-size: 10em;
+  font-weight: 900;
+  width: 0.8em;
+  text-align: center;
+}
+.infoGraphic li .number.fontColor1 {
+  color: var(--blue);
+}
+.infoGraphic li .number.fontColor2 {
+  color: var(--green);
+}
+.infoGraphic li .number.fontColor3 {
+  color: var(--purple);
+}
+.infoGraphic li .number.fontColor4 {
+  color: var(--gold);
+}
+.infoGraphic li .number.fontColor5 {
+  color: var(--red);
+}
+.infoGraphic li .number.fontColor6 {
+  color: var(--orange);
+}
+.infoGraphic li .coverWrap {
+  transform: rotate(130deg);
+  position: absolute;
+  width: 20em;
+  height: 30em;
+  left: -6em;
+  top: -1em;
+}
+.infoGraphic li .coverWrap .numberCover {
+  position: absolute;
+  background: var(--bg1);
+  width: 12em;
+  height: 18em;
+  border-radius: 50% 50% 0 0;
+  border-bottom: 3px solid #f5f8f7;
+  transition: all 0.4s;
+}
+.infoGraphic li .coverWrap .numberCover::before {
+  position: absolute;
+  content: "";
+  bottom: 5px;
+  left: 4em;
+  right: 4em;
+  top: 5em;
+  box-shadow: 0 0 30px 17px #6887a677;
+  border-radius: 100px/10px;
+  z-index: -1;
+}
+.infoGraphic li .coverWrap .numberCover::after {
+  position: absolute;
+  bottom: 0;
+  content: "";
+  left: -10%;
+  width: 120%;
+  height: 150%;
+  background: radial-gradient(at bottom, #48668533, transparent, transparent);
+  z-index: 1;
+}
+.infoGraphic li .content {
+  margin: 6em 3em 1em 7em;
+  position: relative;
+ 
+}
+.infoGraphic li .content h2 {
+  font-size: 1.7em;
+  font-weight: 500;
+  text-align: center;
+  margin-bottom: 10px;
+  padding-top: 1rem;
+  text-transform: uppercase;
+}
+.infoGraphic li .content p {
+ width: 25rem;
+  line-height: 1.5em;
+}
+
+.infoGraphic li:hover .coverWrap .numberCover {
+  border-radius: 100%;
+}
+
+.icon {
+  height: 2.5rem;
+  width: 2.5rem;
+  position: absolute;
+  font-size: 2rem;
+  text-align: center;
+  top: -1.3em;
+  left: 50%;
+  transform: translatex(-50%);
+  
+  
+}
+.icon:before {
+  color: #666;
+  font-family: FontAwesome;
+  font-style: normal;
+  font-weight: normal;
+  text-decoration: inherit;
+}
+
+.iconCodepen:before {
+  content: "";
+}
+
+.iconSocial:before {
+  content: "";
+}
+
+.iconAirplane:before {
+  content: "";
+}
+
+.iconMap:before {
+  content: "";
+}
+
+.iconBulb:before {
+  content: "";
+}
+
+.iconPeace:before {
+  content: "";
+}
+
+html {
+  height: 100%;
+  box-sizing: border-box;
+}
+
+
+

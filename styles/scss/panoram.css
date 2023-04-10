@@ -1,0 +1,2345 @@
+html {
+  font-size: 62.5%;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+ul, li {
+  list-style: none;
+}
+
+input {
+  border: none;
+}
+
+body {
+  width: 151.2rem;
+}
+
+.panoram-xwz {
+  width: 100%;
+  height: 686.9rem;
+  background-color: #ffffff;
+}
+
+.panoram-xwz .div-HzG {
+  width: 100%;
+  height: 686.8rem;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  padding: 2.6rem 0rem 7.703rem 0rem;
+}
+
+.panoram-xwz .div-HzG .frame-10000049502-2-Qoz {
+  width: 18.5rem;
+  height: 3.8rem;
+  cursor: pointer;
+  -o-object-fit: cover;
+     object-fit: cover;
+  vertical-align: top;
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+  margin: 0rem 0rem 6.4rem 11.6rem;
+}
+
+.panoram-xwz .div-HzG .main-KRA {
+  position: relative;
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+  width: 100%;
+  height: 666.2969rem;
+  overflow: hidden;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL {
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  width: 100%;
+  height: 100%;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .intro-2Ka {
+  height: 36.7rem;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: start;
+      -ms-flex-align: start;
+          align-items: flex-start;
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+  margin: 0rem 11.6rem 20.3rem 11.6rem;
+  width: calc(100% - 23.2rem);
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .intro-2Ka .divw-node-c8a9b103-5d43-ce87-7831-12c439ab055f-1ddfd172-wxL {
+  width: 50rem;
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+  margin-right: 20rem;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  padding-top: 0.95rem;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .intro-2Ka .divw-node-c8a9b103-5d43-ce87-7831-12c439ab055f-1ddfd172-wxL .div-41N {
+  line-height: 1;
+  font-family: Public Sans, 'Source Sans Pro';
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  overflow: hidden;
+  font-size: 7.4rem;
+  font-weight: 500;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  margin-bottom: 4.2094rem;
+  width: 45.3rem;
+  height: 7.4rem;
+  position: relative;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  color: #000000;
+  white-space: nowrap;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .intro-2Ka .divw-node-c8a9b103-5d43-ce87-7831-12c439ab055f-1ddfd172-wxL .a-ibi {
+  overflow: hidden;
+  position: relative;
+  width: 22.9859rem;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .intro-2Ka .divw-node-c8a9b103-5d43-ce87-7831-12c439ab055f-1ddfd172-wxL .a-ibi .view-website-GNL {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  line-height: 1.3888888889;
+  font-family: Public Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  margin-bottom: 0.4703rem;
+  cursor: pointer;
+  font-size: 1.8rem;
+  font-weight: 300;
+  color: #000000;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .intro-2Ka .divw-node-c8a9b103-5d43-ce87-7831-12c439ab055f-1ddfd172-wxL .a-ibi .div-BEQ {
+  width: 100%;
+  height: 0.1rem;
+  background-color: rgba(0, 0, 0, 0.3);
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .intro-2Ka .divw-node-83fa2830-a68c-3230-2670-8e874be5d0d7-1ddfd172-89e {
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+  width: 58rem;
+  height: 100%;
+  row-gap: 4.2rem;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .intro-2Ka .divw-node-83fa2830-a68c-3230-2670-8e874be5d0d7-1ddfd172-89e .div-EiU {
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+  width: 100%;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .intro-2Ka .divw-node-83fa2830-a68c-3230-2670-8e874be5d0d7-1ddfd172-89e .div-EiU .auto-group-ondn-Bdi {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  padding-bottom: 0.9rem;
+  width: 100%;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .intro-2Ka .divw-node-83fa2830-a68c-3230-2670-8e874be5d0d7-1ddfd172-89e .div-EiU .auto-group-ondn-Bdi .year-Xha {
+  font-weight: 400;
+  line-height: 1.375;
+  color: #000000;
+  font-family: Public Sans, 'Source Sans Pro';
+  margin-bottom: 0.9rem;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  font-size: 2.4rem;
+  white-space: nowrap;
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .intro-2Ka .divw-node-83fa2830-a68c-3230-2670-8e874be5d0d7-1ddfd172-89e .div-EiU .auto-group-ondn-Bdi .item-2023-Fda {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 300;
+  line-height: 1.3888888889;
+  color: #000000;
+  font-family: Public Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .intro-2Ka .divw-node-83fa2830-a68c-3230-2670-8e874be5d0d7-1ddfd172-89e .div-EiU .div-BXE {
+  width: 100%;
+  height: 0.1rem;
+  background-color: rgba(0, 0, 0, 0.3);
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .intro-2Ka .divw-node-83fa2830-a68c-3230-2670-8e874be5d0d7-1ddfd172-89e .div-Y6t {
+  width: 100%;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .intro-2Ka .divw-node-83fa2830-a68c-3230-2670-8e874be5d0d7-1ddfd172-89e .div-Y6t .auto-group-ku6c-uCL {
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  padding-bottom: 0.9594rem;
+  width: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .intro-2Ka .divw-node-83fa2830-a68c-3230-2670-8e874be5d0d7-1ddfd172-89e .div-Y6t .auto-group-ku6c-uCL .services-45E {
+  white-space: nowrap;
+  margin-bottom: 1.0406rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  font-family: Public Sans, 'Source Sans Pro';
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  line-height: 1.375;
+  color: #000000;
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .intro-2Ka .divw-node-83fa2830-a68c-3230-2670-8e874be5d0d7-1ddfd172-89e .div-Y6t .auto-group-ku6c-uCL .software-design-development-BvY {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 300;
+  line-height: 1.3888888889;
+  white-space: nowrap;
+  color: #000000;
+  font-family: Public Sans, 'Source Sans Pro';
+  -webkit-box-align: baseline;
+      -ms-flex-align: baseline;
+          align-items: baseline;
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .intro-2Ka .divw-node-83fa2830-a68c-3230-2670-8e874be5d0d7-1ddfd172-89e .div-Y6t .auto-group-ku6c-uCL .software-design-development-BvY .software-design-development-BvY-sub-0 {
+  font-size: 1.8rem;
+  font-weight: 300;
+  line-height: 1.3888888889;
+  color: #000000;
+  font-family: Public Sans, 'Source Sans Pro';
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .intro-2Ka .divw-node-83fa2830-a68c-3230-2670-8e874be5d0d7-1ddfd172-89e .div-Y6t .auto-group-ku6c-uCL .software-design-development-BvY .software-design-development-BvY-sub-1 {
+  font-size: 1.8rem;
+  font-weight: 300;
+  line-height: 1.3888888889;
+  color: #000000;
+  font-family: Public Sans, 'Source Sans Pro';
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .intro-2Ka .divw-node-83fa2830-a68c-3230-2670-8e874be5d0d7-1ddfd172-89e .div-Y6t .div-PQL {
+  width: 100%;
+  height: 0.1rem;
+  background-color: rgba(0, 0, 0, 0.3);
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .intro-2Ka .divw-node-83fa2830-a68c-3230-2670-8e874be5d0d7-1ddfd172-89e .div-YY8 {
+  width: 100%;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .intro-2Ka .divw-node-83fa2830-a68c-3230-2670-8e874be5d0d7-1ddfd172-89e .div-YY8 .auto-group-f8gx-7bE {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  padding-bottom: 0.9rem;
+  width: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .intro-2Ka .divw-node-83fa2830-a68c-3230-2670-8e874be5d0d7-1ddfd172-89e .div-YY8 .auto-group-f8gx-7bE .intro-fMr {
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+  margin-bottom: 0.9rem;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  white-space: nowrap;
+  color: #000000;
+  font-family: Public Sans, 'Source Sans Pro';
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.375;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .intro-2Ka .divw-node-83fa2830-a68c-3230-2670-8e874be5d0d7-1ddfd172-89e .div-YY8 .auto-group-f8gx-7bE .panoram-cgi-is-a-boutique-visualization-studio-specializing-in-3d-renderings-and-animations-for-luxury-brands-in-architecture-interiors-and-golf-course-sectors-oDA {
+  max-width: 50.3rem;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 300;
+  line-height: 1.3888888889;
+  color: #000000;
+  font-family: Public Sans, 'Source Sans Pro';
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .intro-2Ka .divw-node-83fa2830-a68c-3230-2670-8e874be5d0d7-1ddfd172-89e .div-YY8 .div-FL4 {
+  width: 100%;
+  height: 0.1rem;
+  background-color: rgba(0, 0, 0, 0.3);
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .display-PhA {
+  width: 100%;
+  background: radial-gradient(50% 50% at 50% 50%, #626262 0%, #2a2a2a 100%);
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+  margin-bottom: 16.6734rem;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  padding: 4.261rem 11.5rem 4.039rem 11.5rem;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .display-PhA .rm355-pf-s73-card-laptop-01-mockup-2-oeQ {
+  background-size: 106.65% 111.73%;
+  background-position: -0.1005rem -4.3302rem;
+  background-image: url("REPLACE_IMAGE:0999a8b28f78088c8d432ae8f8ac214491ab2dfa");
+  width: 128.2rem;
+  height: 79.3rem;
+  position: relative;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .process-ppQ {
+  margin-bottom: 16.4rem;
+  width: 100%;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .process-ppQ .auto-group-xdtw-AdN {
+  margin: 0rem 11.6rem 6.7rem 16.65rem;
+  width: calc(100% - 28.25rem);
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: start;
+      -ms-flex-align: start;
+          align-items: flex-start;
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .process-ppQ .auto-group-xdtw-AdN .process-VQk {
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  font-weight: 500;
+  line-height: 1.3818181818;
+  color: #000000;
+  margin-right: 27.65rem;
+  font-size: 5.5rem;
+  font-family: Public Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .process-ppQ .auto-group-xdtw-AdN .frame-1000004895-Qnc {
+  margin-top: 1.0266rem;
+  width: 74.7rem;
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .process-ppQ .auto-group-xdtw-AdN .frame-1000004895-Qnc .auto-group-aqdz-wXe {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  padding-bottom: 2.7rem;
+  width: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .process-ppQ .auto-group-xdtw-AdN .frame-1000004895-Qnc .auto-group-aqdz-wXe .context-5dr {
+  color: #000000;
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+  margin-bottom: 3.95rem;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  font-size: 3.2rem;
+  font-weight: 500;
+  line-height: 1.375;
+  font-family: Public Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .process-ppQ .auto-group-xdtw-AdN .frame-1000004895-Qnc .auto-group-aqdz-wXe .panoram-cgi-is-the-most-comprehensive-design-and-3d-rendering-services-provider-they-help-clients-in-building-their-dream-spaces-by-creating-photographic-quality-computer-generated-imagery-cgi-for-the-finest-spaces-from-initial-concept-to-final-design-bcC {
+  margin-bottom: 3.95rem;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  font-size: 1.8rem;
+  line-height: 1.3888888889;
+  color: #000000;
+  font-family: Public Sans, 'Source Sans Pro';
+  max-width: 70.1rem;
+  font-weight: 300;
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .process-ppQ .auto-group-xdtw-AdN .frame-1000004895-Qnc .auto-group-aqdz-wXe .challenge-cXJ {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  font-size: 3.2rem;
+  font-weight: 500;
+  font-family: Public Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  margin-bottom: 3.75rem;
+  color: #000000;
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+  line-height: 1.375;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .process-ppQ .auto-group-xdtw-AdN .frame-1000004895-Qnc .auto-group-aqdz-wXe .create-a-platform-for-both-client-panoram-and-their-customers-where-they-can-initiate-interact-and-manage-projects-based-on-their-requirements-and-later-can-provide-essential-feedback-during-the-production-phase-understand-the-pain-points-and-necessary-communication-requirements-for-the-client-to-initiate-a-project-redesign-the-old-internal-accounting-managing-and-communicating-features-for-the-admin-and-production-team-MDz {
+  margin-bottom: 3.75rem;
+  max-width: 74.3rem;
+  font-weight: 300;
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  font-size: 1.8rem;
+  line-height: 1.3888888889;
+  color: #000000;
+  font-family: Public Sans, 'Source Sans Pro';
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .process-ppQ .auto-group-xdtw-AdN .frame-1000004895-Qnc .auto-group-aqdz-wXe .problem-statement-uPv {
+  line-height: 1.375;
+  color: #000000;
+  font-family: Public Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  font-size: 3.2rem;
+  font-weight: 500;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .process-ppQ .auto-group-xdtw-AdN .frame-1000004895-Qnc .blockquote-dap {
+  border: solid 0.5rem #000000;
+  margin-bottom: 2.7rem;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  padding: 1.2rem 2.5rem;
+  width: 100%;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .process-ppQ .auto-group-xdtw-AdN .frame-1000004895-Qnc .blockquote-dap .how-might-we-create-a-digital-tool-that-allows-users-to-provide-real-time-feedback-on-ongoing-production-practices-yeg {
+  line-height: 1.3888888889;
+  color: #000000;
+  font-family: Public Sans, 'Source Sans Pro';
+  max-width: 59.6rem;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 300;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .process-ppQ .auto-group-xdtw-AdN .frame-1000004895-Qnc .blockquote-dap .how-might-we-create-a-digital-tool-that-allows-users-to-provide-real-time-feedback-on-ongoing-production-practices-yeg .how-might-we-create-a-digital-tool-that-allows-users-to-provide-real-time-feedback-on-ongoing-production-practices-yeg-sub-0 {
+  font-size: 1.8rem;
+  font-weight: 300;
+  line-height: 1.3888888889;
+  color: #000000;
+  font-family: Public Sans, 'Source Sans Pro';
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .process-ppQ .auto-group-xdtw-AdN .frame-1000004895-Qnc .blockquote-dap .how-might-we-create-a-digital-tool-that-allows-users-to-provide-real-time-feedback-on-ongoing-production-practices-yeg .how-might-we-create-a-digital-tool-that-allows-users-to-provide-real-time-feedback-on-ongoing-production-practices-yeg-sub-1 {
+  font-size: 1.8rem;
+  font-weight: 300;
+  line-height: 1.3888888889;
+  color: #000000;
+  font-family: Public Sans, 'Source Sans Pro';
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .process-ppQ .auto-group-xdtw-AdN .frame-1000004895-Qnc .research-Acg {
+  font-weight: 500;
+  line-height: 1.375;
+  color: #000000;
+  font-family: Public Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  margin-bottom: 3.95rem;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  font-size: 3.2rem;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .process-ppQ .auto-group-xdtw-AdN .frame-1000004895-Qnc .interacted-with-the-ceo-and-team-members-of-panoram-cgi-discussing-the-difficulties-and-pain-points-they-face-in-their-current-management-and-communication-tools-got-engaged-with-one-of-panorams-clients-and-observed-the-current-flow-of-initiating-a-project-and-followed-up-with-production-practices-started-ideating-the-follow-up-solutions-to-the-problem-faced-by-both-panoram-and-their-clients-analyzed-the-brainstormed-ideas-and-came-up-with-the-perfect-solution-for-integrating-the-real-time-commenting-and-feedback-feature-where-both-panorams-team-members-and-their-clients-can-upload-files-and-images-to-the-review-section-of-the-particular-project-and-can-leave-comments-on-the-issues-faced-at-the-time-of-implementation-Jit {
+  max-width: 71.5rem;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 300;
+  line-height: 1.3888888889;
+  color: #000000;
+  font-family: Public Sans, 'Source Sans Pro';
+  margin-bottom: 3.95rem;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .process-ppQ .auto-group-xdtw-AdN .frame-1000004895-Qnc .wireframes-mkt {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  font-size: 3.2rem;
+  font-weight: 500;
+  line-height: 1.375;
+  color: #000000;
+  font-family: Public Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .process-ppQ .frame-1410114913-WiU {
+  height: 60rem;
+  overflow: hidden;
+  position: relative;
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+  width: 100%;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .result-rGY {
+  width: 100%;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .result-rGY .results-1QL {
+  margin: 0rem 11.6rem 18.139rem 16.7rem;
+  width: calc(100% - 28.3rem);
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: start;
+      -ms-flex-align: start;
+          align-items: flex-start;
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .result-rGY .results-1QL .result-jr8 {
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+  margin-right: 39.2rem;
+  font-weight: 500;
+  font-family: Public Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  font-size: 5.5rem;
+  line-height: 1.3818181818;
+  color: #000000;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .result-rGY .results-1QL .auto-group-qdp4-U32 {
+  margin-top: 1.0609rem;
+  width: 67.1rem;
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .result-rGY .results-1QL .auto-group-qdp4-U32 .in-the-end-the-results-turned-out-to-be-pretty-satisfying-to-the-client-24Y {
+  line-height: 1.3888888889;
+  color: #000000;
+  font-family: Public Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  margin-bottom: 2.5rem;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 300;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .result-rGY .results-1QL .auto-group-qdp4-U32 .blockquote-jUk {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  padding: 1.2rem 2.5rem;
+  width: 100%;
+  height: 7.4rem;
+  border: solid 0.5rem #000000;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .result-rGY .results-1QL .auto-group-qdp4-U32 .blockquote-jUk .later-my-team-and-i-conducted-a-usability-test-interview-and-involved-the-client-and-users-regarding-issues-or-changes-to-be-resolved-HFN {
+  font-weight: 300;
+  line-height: 1.3888888889;
+  color: #000000;
+  font-family: Public Sans, 'Source Sans Pro';
+  max-width: 57.1rem;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  font-size: 1.8rem;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .result-rGY .frame-1410114924-unY {
+  width: 100%;
+  height: 60rem;
+  overflow: hidden;
+  position: relative;
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .auto-group-t4cg-rSt {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  padding: 17.5rem 11.6rem 0rem 11.6rem;
+  width: 100%;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .auto-group-t4cg-rSt .typo-and-colors-Ng8 {
+  margin-bottom: 17.5rem;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  width: 100%;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+  padding: 2.161rem 3.7rem 2.239rem 3.6rem;
+  height: 80rem;
+  border: solid 0.1rem #dedede;
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .auto-group-t4cg-rSt .typo-and-colors-Ng8 .group-1000004385-6c8 {
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  width: 100%;
+  height: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .auto-group-t4cg-rSt .typo-and-colors-Ng8 .group-1000004385-6c8 .auto-group-2kkq-3XN {
+  margin-bottom: 6.2rem;
+  width: 100%;
+  height: 55.4rem;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: start;
+      -ms-flex-align: start;
+          align-items: flex-start;
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .auto-group-t4cg-rSt .typo-and-colors-Ng8 .group-1000004385-6c8 .auto-group-2kkq-3XN .frame-1000004943-zBi {
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+  margin-right: 33.7rem;
+  height: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .auto-group-t4cg-rSt .typo-and-colors-Ng8 .group-1000004385-6c8 .auto-group-2kkq-3XN .frame-1000004943-zBi .typography-kAt {
+  color: #000000;
+  margin-bottom: 3rem;
+  font-size: 5.5rem;
+  font-weight: 500;
+  line-height: 1.3818181818;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  font-family: Public Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .auto-group-t4cg-rSt .typo-and-colors-Ng8 .group-1000004385-6c8 .auto-group-2kkq-3XN .frame-1000004943-zBi .frame-1000004942-sWQ {
+  width: 29.5rem;
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .auto-group-t4cg-rSt .typo-and-colors-Ng8 .group-1000004385-6c8 .auto-group-2kkq-3XN .frame-1000004943-zBi .frame-1000004942-sWQ .auto-group-uq1a-R28 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  padding-bottom: 2.7rem;
+  width: 100%;
+  row-gap: 2.7rem;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .auto-group-t4cg-rSt .typo-and-colors-Ng8 .group-1000004385-6c8 .auto-group-2kkq-3XN .frame-1000004943-zBi .frame-1000004942-sWQ .auto-group-uq1a-R28 .frame-1000004937-MAg {
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .auto-group-t4cg-rSt .typo-and-colors-Ng8 .group-1000004385-6c8 .auto-group-2kkq-3XN .frame-1000004943-zBi .frame-1000004942-sWQ .auto-group-uq1a-R28 .frame-1000004937-MAg .heading-1-uT6 {
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  font-size: 3.2rem;
+  font-weight: 500;
+  line-height: 1.375;
+  color: #000000;
+  font-family: Public Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .auto-group-t4cg-rSt .typo-and-colors-Ng8 .group-1000004385-6c8 .auto-group-2kkq-3XN .frame-1000004943-zBi .frame-1000004942-sWQ .auto-group-uq1a-R28 .frame-1000004937-MAg .gilroy-semi-bold-34-px-38-FWx {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 300;
+  letter-spacing: 0.1rem;
+  font-family: Public Sans, 'Source Sans Pro';
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+  line-height: 1.3333333333;
+  color: #000000;
+  white-space: nowrap;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .auto-group-t4cg-rSt .typo-and-colors-Ng8 .group-1000004385-6c8 .auto-group-2kkq-3XN .frame-1000004943-zBi .frame-1000004942-sWQ .auto-group-uq1a-R28 .frame-1000004938-mkC {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .auto-group-t4cg-rSt .typo-and-colors-Ng8 .group-1000004385-6c8 .auto-group-2kkq-3XN .frame-1000004943-zBi .frame-1000004942-sWQ .auto-group-uq1a-R28 .frame-1000004938-mkC .heading-2-XUU {
+  font-weight: 500;
+  line-height: 1.5714285714;
+  color: #000000;
+  font-family: Public Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  font-size: 2.8rem;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .auto-group-t4cg-rSt .typo-and-colors-Ng8 .group-1000004385-6c8 .auto-group-2kkq-3XN .frame-1000004943-zBi .frame-1000004942-sWQ .auto-group-uq1a-R28 .frame-1000004938-mkC .gilroy-semi-bold-28-px-32-fag {
+  line-height: 1.3333333333;
+  letter-spacing: 0.1rem;
+  color: #000000;
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 300;
+  font-family: Public Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .auto-group-t4cg-rSt .typo-and-colors-Ng8 .group-1000004385-6c8 .auto-group-2kkq-3XN .frame-1000004943-zBi .frame-1000004942-sWQ .auto-group-uq1a-R28 .frame-1000004939-zN4 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .auto-group-t4cg-rSt .typo-and-colors-Ng8 .group-1000004385-6c8 .auto-group-2kkq-3XN .frame-1000004943-zBi .frame-1000004942-sWQ .auto-group-uq1a-R28 .frame-1000004939-zN4 .heading-3-kc8 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  font-size: 2.2rem;
+  font-weight: 500;
+  line-height: 2;
+  color: #000000;
+  font-family: Public Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .auto-group-t4cg-rSt .typo-and-colors-Ng8 .group-1000004385-6c8 .auto-group-2kkq-3XN .frame-1000004943-zBi .frame-1000004942-sWQ .auto-group-uq1a-R28 .frame-1000004939-zN4 .gilroy-semi-bold-22-px-26-hXN {
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+  font-size: 1.8rem;
+  font-weight: 300;
+  font-family: Public Sans, 'Source Sans Pro';
+  color: #000000;
+  white-space: nowrap;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  line-height: 1.3333333333;
+  letter-spacing: 0.1rem;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .auto-group-t4cg-rSt .typo-and-colors-Ng8 .group-1000004385-6c8 .auto-group-2kkq-3XN .frame-1000004943-zBi .frame-1000004942-sWQ .frame-1000004941-q7n {
+  margin-bottom: 2.7rem;
+  width: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .auto-group-t4cg-rSt .typo-and-colors-Ng8 .group-1000004385-6c8 .auto-group-2kkq-3XN .frame-1000004943-zBi .frame-1000004942-sWQ .frame-1000004941-q7n .body-PQC {
+  font-weight: 500;
+  line-height: 2.4444444444;
+  color: #000000;
+  font-family: Public Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  font-size: 1.8rem;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .auto-group-t4cg-rSt .typo-and-colors-Ng8 .group-1000004385-6c8 .auto-group-2kkq-3XN .frame-1000004943-zBi .frame-1000004942-sWQ .frame-1000004941-q7n .avenir-lt-pro-medium-18-px-24-wRi {
+  white-space: nowrap;
+  font-weight: 300;
+  letter-spacing: 0.1rem;
+  font-family: Public Sans, 'Source Sans Pro';
+  color: #000000;
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  font-size: 1.8rem;
+  line-height: 1.3333333333;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .auto-group-t4cg-rSt .typo-and-colors-Ng8 .group-1000004385-6c8 .auto-group-2kkq-3XN .frame-1000004943-zBi .frame-1000004942-sWQ .frame-1000004940-GTz {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .auto-group-t4cg-rSt .typo-and-colors-Ng8 .group-1000004385-6c8 .auto-group-2kkq-3XN .frame-1000004943-zBi .frame-1000004942-sWQ .frame-1000004940-GTz .labels-2xx {
+  font-weight: 500;
+  line-height: 2.75;
+  color: #000000;
+  font-family: Public Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  font-size: 1.6rem;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .auto-group-t4cg-rSt .typo-and-colors-Ng8 .group-1000004385-6c8 .auto-group-2kkq-3XN .frame-1000004943-zBi .frame-1000004942-sWQ .frame-1000004940-GTz .gilroy-semi-bold-16-px-18-nBS {
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+  font-size: 1.8rem;
+  font-family: Public Sans, 'Source Sans Pro';
+  line-height: 1.3333333333;
+  letter-spacing: 0.1rem;
+  color: #000000;
+  white-space: nowrap;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  font-weight: 300;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .auto-group-t4cg-rSt .typo-and-colors-Ng8 .group-1000004385-6c8 .auto-group-2kkq-3XN .frame-1000004944-6T2 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+  width: 56.6rem;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .auto-group-t4cg-rSt .typo-and-colors-Ng8 .group-1000004385-6c8 .auto-group-2kkq-3XN .frame-1000004944-6T2 .auto-group-3xo6-F52 {
+  padding-bottom: 3rem;
+  width: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .auto-group-t4cg-rSt .typo-and-colors-Ng8 .group-1000004385-6c8 .auto-group-2kkq-3XN .frame-1000004944-6T2 .auto-group-3xo6-F52 .colors-CFA {
+  margin-bottom: 3rem;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  line-height: 1.3818181818;
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+  font-size: 5.5rem;
+  font-weight: 500;
+  color: #000000;
+  font-family: Public Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .auto-group-t4cg-rSt .typo-and-colors-Ng8 .group-1000004385-6c8 .auto-group-2kkq-3XN .frame-1000004944-6T2 .auto-group-3xo6-F52 .group-1000004382-8ec {
+  height: 13.3rem;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: start;
+      -ms-flex-align: start;
+          align-items: flex-start;
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .auto-group-t4cg-rSt .typo-and-colors-Ng8 .group-1000004385-6c8 .auto-group-2kkq-3XN .frame-1000004944-6T2 .auto-group-3xo6-F52 .group-1000004382-8ec .primary-5pk {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  line-height: 1.375;
+  color: #000000;
+  font-family: Public Sans, 'Source Sans Pro';
+  margin: 2.2rem 9.1rem 0rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  white-space: nowrap;
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .auto-group-t4cg-rSt .typo-and-colors-Ng8 .group-1000004385-6c8 .auto-group-2kkq-3XN .frame-1000004944-6T2 .auto-group-3xo6-F52 .group-1000004382-8ec .auto-group-xdll-CeU {
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+  height: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .auto-group-t4cg-rSt .typo-and-colors-Ng8 .group-1000004385-6c8 .auto-group-2kkq-3XN .frame-1000004944-6T2 .auto-group-3xo6-F52 .group-1000004382-8ec .auto-group-xdll-CeU .rectangle-2718-AbJ {
+  width: 7.8rem;
+  height: 7.6rem;
+  background: -webkit-gradient(linear, left top, left bottom, from(#00d4a8), to(#048f72));
+  background: linear-gradient(180deg, #00d4a8 0%, #048f72 100%);
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+  margin-bottom: 0.3rem;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .auto-group-t4cg-rSt .typo-and-colors-Ng8 .group-1000004385-6c8 .auto-group-2kkq-3XN .frame-1000004944-6T2 .auto-group-3xo6-F52 .group-1000004382-8ec .auto-group-xdll-CeU .gradient-00d4a8-01d9ab-fnx {
+  max-width: 7.9rem;
+  letter-spacing: 0.1rem;
+  font-family: Public Sans, 'Source Sans Pro';
+  color: #000000;
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 300;
+  line-height: 1.125;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .auto-group-t4cg-rSt .typo-and-colors-Ng8 .group-1000004385-6c8 .auto-group-2kkq-3XN .frame-1000004944-6T2 .auto-group-3xo6-F52 .group-1000004382-8ec .auto-group-iulx-nMn {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  padding-left: 2.4rem;
+  height: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: start;
+      -ms-flex-align: start;
+          align-items: flex-start;
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .auto-group-t4cg-rSt .typo-and-colors-Ng8 .group-1000004385-6c8 .auto-group-2kkq-3XN .frame-1000004944-6T2 .auto-group-3xo6-F52 .group-1000004382-8ec .auto-group-iulx-nMn .auto-group-eyf6-jH2 {
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+  margin-right: 2.5rem;
+  width: 7.8rem;
+  -webkit-box-align: end;
+      -ms-flex-align: end;
+          align-items: flex-end;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .auto-group-t4cg-rSt .typo-and-colors-Ng8 .group-1000004385-6c8 .auto-group-2kkq-3XN .frame-1000004944-6T2 .auto-group-3xo6-F52 .group-1000004382-8ec .auto-group-iulx-nMn .auto-group-eyf6-jH2 .rectangle-2718-C48 {
+  background-color: #01d9ab;
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+  margin-bottom: 0.3rem;
+  width: 100%;
+  height: 7.6rem;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .auto-group-t4cg-rSt .typo-and-colors-Ng8 .group-1000004385-6c8 .auto-group-2kkq-3XN .frame-1000004944-6T2 .auto-group-3xo6-F52 .group-1000004382-8ec .auto-group-iulx-nMn .auto-group-eyf6-jH2 .d9ab-jJx {
+  font-size: 1.6rem;
+  line-height: 1.125;
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  font-weight: 300;
+  letter-spacing: 0.1rem;
+  color: #000000;
+  font-family: Public Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .auto-group-t4cg-rSt .typo-and-colors-Ng8 .group-1000004385-6c8 .auto-group-2kkq-3XN .frame-1000004944-6T2 .auto-group-3xo6-F52 .group-1000004382-8ec .auto-group-iulx-nMn .auto-group-hjpn-reU {
+  -webkit-box-align: end;
+      -ms-flex-align: end;
+          align-items: flex-end;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .auto-group-t4cg-rSt .typo-and-colors-Ng8 .group-1000004385-6c8 .auto-group-2kkq-3XN .frame-1000004944-6T2 .auto-group-3xo6-F52 .group-1000004382-8ec .auto-group-iulx-nMn .auto-group-hjpn-reU .rectangle-2720-p5W {
+  border: solid 0.1rem #c2bebe;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  background-color: #ffffff;
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+  margin: 0rem 0.1rem 0.3rem 0rem;
+  width: 7.7rem;
+  height: 7.6rem;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .auto-group-t4cg-rSt .typo-and-colors-Ng8 .group-1000004385-6c8 .auto-group-2kkq-3XN .frame-1000004944-6T2 .auto-group-3xo6-F52 .group-1000004382-8ec .auto-group-iulx-nMn .auto-group-hjpn-reU .ffffff-vuE {
+  line-height: 1.125;
+  font-family: Public Sans, 'Source Sans Pro';
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+  white-space: nowrap;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 300;
+  letter-spacing: 0.1rem;
+  color: #000000;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .auto-group-t4cg-rSt .typo-and-colors-Ng8 .group-1000004385-6c8 .auto-group-2kkq-3XN .frame-1000004944-6T2 .group-1000004383-4Ek {
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+  margin-bottom: 3rem;
+  width: 100%;
+  height: 9.7rem;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .auto-group-t4cg-rSt .typo-and-colors-Ng8 .group-1000004385-6c8 .auto-group-2kkq-3XN .frame-1000004944-6T2 .group-1000004383-4Ek .secondary-bVa {
+  font-size: 2.4rem;
+  font-weight: 400;
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  line-height: 1.375;
+  color: #000000;
+  font-family: Public Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  margin: 0rem 5.8rem 2rem 0rem;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .auto-group-t4cg-rSt .typo-and-colors-Ng8 .group-1000004385-6c8 .auto-group-2kkq-3XN .frame-1000004944-6T2 .group-1000004383-4Ek .auto-group-fqxg-7yi {
+  margin-right: 2.4rem;
+  width: 7.8rem;
+  height: 100%;
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .auto-group-t4cg-rSt .typo-and-colors-Ng8 .group-1000004385-6c8 .auto-group-2kkq-3XN .frame-1000004944-6T2 .group-1000004383-4Ek .auto-group-fqxg-7yi .rectangle-2722-UJU {
+  margin-bottom: 0.3rem;
+  width: 100%;
+  height: 7.6rem;
+  border: solid 0.1rem #d6d6d6;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  background-color: #333333;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .auto-group-t4cg-rSt .typo-and-colors-Ng8 .group-1000004385-6c8 .auto-group-2kkq-3XN .frame-1000004944-6T2 .group-1000004383-4Ek .auto-group-fqxg-7yi .item-333333-c9n {
+  white-space: nowrap;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 300;
+  line-height: 1.125;
+  letter-spacing: 0.1rem;
+  color: #000000;
+  font-family: Public Sans, 'Source Sans Pro';
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .auto-group-t4cg-rSt .typo-and-colors-Ng8 .group-1000004385-6c8 .auto-group-2kkq-3XN .frame-1000004944-6T2 .group-1000004383-4Ek .auto-group-ukwk-LLg {
+  margin-right: 2.5rem;
+  height: 100%;
+  -webkit-box-align: end;
+      -ms-flex-align: end;
+          align-items: flex-end;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .auto-group-t4cg-rSt .typo-and-colors-Ng8 .group-1000004385-6c8 .auto-group-2kkq-3XN .frame-1000004944-6T2 .group-1000004383-4Ek .auto-group-ukwk-LLg .rectangle-2721-Hmi {
+  margin-bottom: 0.3rem;
+  width: 7.8rem;
+  height: 7.6rem;
+  background-color: #4b4b4b;
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .auto-group-t4cg-rSt .typo-and-colors-Ng8 .group-1000004385-6c8 .auto-group-2kkq-3XN .frame-1000004944-6T2 .group-1000004383-4Ek .auto-group-ukwk-LLg .b4b4b-qYL {
+  font-weight: 300;
+  color: #000000;
+  white-space: nowrap;
+  font-family: Public Sans, 'Source Sans Pro';
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  font-size: 1.6rem;
+  line-height: 1.125;
+  letter-spacing: 0.1rem;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .auto-group-t4cg-rSt .typo-and-colors-Ng8 .group-1000004385-6c8 .auto-group-2kkq-3XN .frame-1000004944-6T2 .group-1000004383-4Ek .auto-group-yvje-AqW {
+  margin-right: 2.2rem;
+  width: 7.8rem;
+  height: 100%;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .auto-group-t4cg-rSt .typo-and-colors-Ng8 .group-1000004385-6c8 .auto-group-2kkq-3XN .frame-1000004944-6T2 .group-1000004383-4Ek .auto-group-yvje-AqW .rectangle-2723-iME {
+  margin-bottom: 0.3rem;
+  width: 100%;
+  height: 7.6rem;
+  background-color: #707171;
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .auto-group-t4cg-rSt .typo-and-colors-Ng8 .group-1000004385-6c8 .auto-group-2kkq-3XN .frame-1000004944-6T2 .group-1000004383-4Ek .auto-group-yvje-AqW .item-707171-sE8 {
+  line-height: 1.125;
+  font-family: Public Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 300;
+  letter-spacing: 0.1rem;
+  color: #000000;
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .auto-group-t4cg-rSt .typo-and-colors-Ng8 .group-1000004385-6c8 .auto-group-2kkq-3XN .frame-1000004944-6T2 .group-1000004383-4Ek .auto-group-t2ja-bR2 {
+  height: 100%;
+  -webkit-box-align: end;
+      -ms-flex-align: end;
+          align-items: flex-end;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .auto-group-t4cg-rSt .typo-and-colors-Ng8 .group-1000004385-6c8 .auto-group-2kkq-3XN .frame-1000004944-6T2 .group-1000004383-4Ek .auto-group-t2ja-bR2 .rectangle-2719-wzg {
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+  margin-bottom: 0.3rem;
+  width: 7.8rem;
+  height: 7.6rem;
+  background-color: #d6d6d6;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .auto-group-t4cg-rSt .typo-and-colors-Ng8 .group-1000004385-6c8 .auto-group-2kkq-3XN .frame-1000004944-6T2 .group-1000004383-4Ek .auto-group-t2ja-bR2 .d6d6d6-H2x {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 300;
+  line-height: 1.125;
+  letter-spacing: 0.1rem;
+  color: #000000;
+  font-family: Public Sans, 'Source Sans Pro';
+  margin-right: 0.2rem;
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+  white-space: nowrap;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .auto-group-t4cg-rSt .typo-and-colors-Ng8 .group-1000004385-6c8 .auto-group-2kkq-3XN .frame-1000004944-6T2 .group-1000004384-bZS {
+  width: 100%;
+  height: 9.7rem;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .auto-group-t4cg-rSt .typo-and-colors-Ng8 .group-1000004385-6c8 .auto-group-2kkq-3XN .frame-1000004944-6T2 .group-1000004384-bZS .accent-Xxt {
+  margin: 0rem 10rem 2rem 0rem;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #000000;
+  font-size: 2.4rem;
+  font-family: Public Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .auto-group-t4cg-rSt .typo-and-colors-Ng8 .group-1000004385-6c8 .auto-group-2kkq-3XN .frame-1000004944-6T2 .group-1000004384-bZS .auto-group-nzjc-4C8 {
+  margin-right: 2.4rem;
+  width: 7.8rem;
+  height: 100%;
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .auto-group-t4cg-rSt .typo-and-colors-Ng8 .group-1000004385-6c8 .auto-group-2kkq-3XN .frame-1000004944-6T2 .group-1000004384-bZS .auto-group-nzjc-4C8 .rectangle-2722-Q16 {
+  margin-bottom: 0.3rem;
+  width: 100%;
+  height: 7.6rem;
+  border: solid 0.1rem #d6d6d6;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  background-color: #13c14f;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .auto-group-t4cg-rSt .typo-and-colors-Ng8 .group-1000004385-6c8 .auto-group-2kkq-3XN .frame-1000004944-6T2 .group-1000004384-bZS .auto-group-nzjc-4C8 .c14f-8St {
+  font-weight: 300;
+  line-height: 1.125;
+  letter-spacing: 0.1rem;
+  color: #000000;
+  font-family: Public Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  font-size: 1.6rem;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .auto-group-t4cg-rSt .typo-and-colors-Ng8 .group-1000004385-6c8 .auto-group-2kkq-3XN .frame-1000004944-6T2 .group-1000004384-bZS .auto-group-y7pe-Tk4 {
+  margin-right: 2.3rem;
+  height: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .auto-group-t4cg-rSt .typo-and-colors-Ng8 .group-1000004385-6c8 .auto-group-2kkq-3XN .frame-1000004944-6T2 .group-1000004384-bZS .auto-group-y7pe-Tk4 .rectangle-2721-ccx {
+  height: 7.6rem;
+  background-color: #d37a27;
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+  margin: 0rem 0rem 0.3rem 0.3rem;
+  width: 7.8rem;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .auto-group-t4cg-rSt .typo-and-colors-Ng8 .group-1000004385-6c8 .auto-group-2kkq-3XN .frame-1000004944-6T2 .group-1000004384-bZS .auto-group-y7pe-Tk4 .d37a27-kUG {
+  font-family: Public Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  font-size: 1.6rem;
+  font-weight: 300;
+  line-height: 1.125;
+  letter-spacing: 0.1rem;
+  color: #000000;
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .auto-group-t4cg-rSt .typo-and-colors-Ng8 .group-1000004385-6c8 .auto-group-2kkq-3XN .frame-1000004944-6T2 .group-1000004384-bZS .auto-group-e3ng-t4g {
+  margin-right: 1.9rem;
+  height: 100%;
+  -webkit-box-align: end;
+      -ms-flex-align: end;
+          align-items: flex-end;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .auto-group-t4cg-rSt .typo-and-colors-Ng8 .group-1000004385-6c8 .auto-group-2kkq-3XN .frame-1000004944-6T2 .group-1000004384-bZS .auto-group-e3ng-t4g .rectangle-2723-qVi {
+  margin: 0rem 0.3rem 0.3rem 0rem;
+  width: 7.8rem;
+  height: 7.6rem;
+  background-color: #e95f57;
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .auto-group-t4cg-rSt .typo-and-colors-Ng8 .group-1000004385-6c8 .auto-group-2kkq-3XN .frame-1000004944-6T2 .group-1000004384-bZS .auto-group-e3ng-t4g .e95f57-muA {
+  letter-spacing: 0.1rem;
+  color: #000000;
+  white-space: nowrap;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 300;
+  line-height: 1.125;
+  font-family: Public Sans, 'Source Sans Pro';
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .auto-group-t4cg-rSt .typo-and-colors-Ng8 .group-1000004385-6c8 .auto-group-2kkq-3XN .frame-1000004944-6T2 .group-1000004384-bZS .auto-group-3cqg-7i8 {
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+  height: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .auto-group-t4cg-rSt .typo-and-colors-Ng8 .group-1000004385-6c8 .auto-group-2kkq-3XN .frame-1000004944-6T2 .group-1000004384-bZS .auto-group-3cqg-7i8 .rectangle-2719-sBW {
+  background-color: #40baff;
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+  margin: 0rem 0rem 0.3rem 0.3rem;
+  width: 7.8rem;
+  height: 7.6rem;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .auto-group-t4cg-rSt .typo-and-colors-Ng8 .group-1000004385-6c8 .auto-group-2kkq-3XN .frame-1000004944-6T2 .group-1000004384-bZS .auto-group-3cqg-7i8 .baff-12p {
+  color: #000000;
+  font-family: Public Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  font-weight: 300;
+  line-height: 1.125;
+  font-size: 1.6rem;
+  letter-spacing: 0.1rem;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .auto-group-t4cg-rSt .typo-and-colors-Ng8 .group-1000004385-6c8 .frame-1000004945-jDi {
+  width: 117.9rem;
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .auto-group-t4cg-rSt .typo-and-colors-Ng8 .group-1000004385-6c8 .frame-1000004945-jDi .iconography-HW8 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  font-size: 5.5rem;
+  font-weight: 500;
+  line-height: 1.3818181818;
+  color: #000000;
+  font-family: Public Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  margin-bottom: 3rem;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .auto-group-t4cg-rSt .typo-and-colors-Ng8 .group-1000004385-6c8 .frame-1000004945-jDi .frame-1000004933-2ic {
+  width: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .auto-group-t4cg-rSt .typo-and-colors-Ng8 .group-1000004385-6c8 .frame-1000004945-jDi .frame-1000004933-2ic .vector-w4t {
+  margin: 0rem 1.4rem 0rem 0rem;
+  width: 2.4rem;
+  height: 1.3975rem;
+  -o-object-fit: contain;
+     object-fit: contain;
+  vertical-align: top;
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .auto-group-t4cg-rSt .typo-and-colors-Ng8 .group-1000004385-6c8 .frame-1000004945-jDi .frame-1000004933-2ic .visible-TZ2 {
+  margin-right: 1.5rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  -o-object-fit: contain;
+     object-fit: contain;
+  vertical-align: top;
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .auto-group-t4cg-rSt .typo-and-colors-Ng8 .group-1000004385-6c8 .frame-1000004945-jDi .frame-1000004933-2ic .visibilityoff24px-PxU {
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+  margin-right: 1.5rem;
+  width: 2.2rem;
+  height: 1.5rem;
+  -o-object-fit: contain;
+     object-fit: contain;
+  vertical-align: top;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .auto-group-t4cg-rSt .typo-and-colors-Ng8 .group-1000004385-6c8 .frame-1000004945-jDi .frame-1000004933-2ic .dropdown-Lcp {
+  margin-right: 1.4rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  position: relative;
+  -o-object-fit: contain;
+     object-fit: contain;
+  vertical-align: top;
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .auto-group-t4cg-rSt .typo-and-colors-Ng8 .group-1000004385-6c8 .frame-1000004945-jDi .frame-1000004933-2ic .download-ggg {
+  vertical-align: top;
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+  margin-right: 1.4rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  position: relative;
+  -o-object-fit: contain;
+     object-fit: contain;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .auto-group-t4cg-rSt .typo-and-colors-Ng8 .group-1000004385-6c8 .frame-1000004945-jDi .frame-1000004933-2ic .info-ECQ {
+  vertical-align: top;
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+  margin-right: 1.4rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  -o-object-fit: contain;
+     object-fit: contain;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .auto-group-t4cg-rSt .typo-and-colors-Ng8 .group-1000004385-6c8 .frame-1000004945-jDi .frame-1000004933-2ic .sort-BNY {
+  vertical-align: top;
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+  margin-right: 1.4rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  -o-object-fit: contain;
+     object-fit: contain;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .auto-group-t4cg-rSt .typo-and-colors-Ng8 .group-1000004385-6c8 .frame-1000004945-jDi .frame-1000004933-2ic .filter-jQ4 {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: relative;
+  -o-object-fit: contain;
+     object-fit: contain;
+  vertical-align: top;
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+  margin-right: 1.4rem;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .auto-group-t4cg-rSt .typo-and-colors-Ng8 .group-1000004385-6c8 .frame-1000004945-jDi .frame-1000004933-2ic .folder-5yi {
+  vertical-align: top;
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+  margin-right: 1.4rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  -o-object-fit: contain;
+     object-fit: contain;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .auto-group-t4cg-rSt .typo-and-colors-Ng8 .group-1000004385-6c8 .frame-1000004945-jDi .frame-1000004933-2ic .resume-qCC {
+  vertical-align: top;
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+  margin-right: 1.4rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  -o-object-fit: contain;
+     object-fit: contain;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .auto-group-t4cg-rSt .typo-and-colors-Ng8 .group-1000004385-6c8 .frame-1000004945-jDi .frame-1000004933-2ic .verified-user-aQg {
+  width: 2.4rem;
+  height: 2.4rem;
+  -o-object-fit: contain;
+     object-fit: contain;
+  vertical-align: top;
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+  margin-right: 1.4rem;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .auto-group-t4cg-rSt .typo-and-colors-Ng8 .group-1000004385-6c8 .frame-1000004945-jDi .frame-1000004933-2ic .save-XKv {
+  width: 2.4rem;
+  height: 2.4rem;
+  -o-object-fit: contain;
+     object-fit: contain;
+  vertical-align: top;
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+  margin-right: 1.4rem;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .auto-group-t4cg-rSt .typo-and-colors-Ng8 .group-1000004385-6c8 .frame-1000004945-jDi .frame-1000004933-2ic .pin-UFA {
+  margin-right: 1.4rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  -o-object-fit: contain;
+     object-fit: contain;
+  vertical-align: top;
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .auto-group-t4cg-rSt .typo-and-colors-Ng8 .group-1000004385-6c8 .frame-1000004945-jDi .frame-1000004933-2ic .edit-DTe {
+  height: 2.4rem;
+  -o-object-fit: contain;
+     object-fit: contain;
+  vertical-align: top;
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+  margin-right: 1.4rem;
+  width: 2.4rem;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .auto-group-t4cg-rSt .typo-and-colors-Ng8 .group-1000004385-6c8 .frame-1000004945-jDi .frame-1000004933-2ic .share-NLY {
+  vertical-align: top;
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+  margin-right: 1.4rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  -o-object-fit: contain;
+     object-fit: contain;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .auto-group-t4cg-rSt .typo-and-colors-Ng8 .group-1000004385-6c8 .frame-1000004945-jDi .frame-1000004933-2ic .delete--vN4 {
+  margin-right: 1.4rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  -o-object-fit: contain;
+     object-fit: contain;
+  vertical-align: top;
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .auto-group-t4cg-rSt .typo-and-colors-Ng8 .group-1000004385-6c8 .frame-1000004945-jDi .frame-1000004933-2ic .cross-4z4 {
+  width: 2.4rem;
+  height: 2.4rem;
+  -o-object-fit: contain;
+     object-fit: contain;
+  vertical-align: top;
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+  margin-right: 1.4rem;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .auto-group-t4cg-rSt .typo-and-colors-Ng8 .group-1000004385-6c8 .frame-1000004945-jDi .frame-1000004933-2ic .control-centre-d1a {
+  -o-object-fit: contain;
+     object-fit: contain;
+  vertical-align: top;
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+  margin-right: 1.4rem;
+  width: 2.4rem;
+  height: 2.4rem;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .auto-group-t4cg-rSt .typo-and-colors-Ng8 .group-1000004385-6c8 .frame-1000004945-jDi .frame-1000004933-2ic .stop-screen-share-NUx {
+  margin-right: 1.4rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  -o-object-fit: contain;
+     object-fit: contain;
+  vertical-align: top;
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .auto-group-t4cg-rSt .typo-and-colors-Ng8 .group-1000004385-6c8 .frame-1000004945-jDi .frame-1000004933-2ic .calender-7Be {
+  vertical-align: top;
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+  margin-right: 1.4rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  position: relative;
+  -o-object-fit: contain;
+     object-fit: contain;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .auto-group-t4cg-rSt .typo-and-colors-Ng8 .group-1000004385-6c8 .frame-1000004945-jDi .frame-1000004933-2ic .messages-rf2 {
+  margin-right: 1.4rem;
+  width: 3.4rem;
+  height: 3.4rem;
+  position: relative;
+  -o-object-fit: contain;
+     object-fit: contain;
+  vertical-align: top;
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .auto-group-t4cg-rSt .typo-and-colors-Ng8 .group-1000004385-6c8 .frame-1000004945-jDi .frame-1000004933-2ic .link-Cyn {
+  vertical-align: top;
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+  margin-right: 1.4rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  -o-object-fit: contain;
+     object-fit: contain;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .auto-group-t4cg-rSt .typo-and-colors-Ng8 .group-1000004385-6c8 .frame-1000004945-jDi .frame-1000004933-2ic .reply-m1J {
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+  margin-right: 1.4rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  position: relative;
+  -o-object-fit: contain;
+     object-fit: contain;
+  vertical-align: top;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .auto-group-t4cg-rSt .typo-and-colors-Ng8 .group-1000004385-6c8 .frame-1000004945-jDi .frame-1000004933-2ic .send-Jmv {
+  margin-right: 1.4rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  -o-object-fit: contain;
+     object-fit: contain;
+  vertical-align: top;
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .auto-group-t4cg-rSt .typo-and-colors-Ng8 .group-1000004385-6c8 .frame-1000004945-jDi .frame-1000004933-2ic .grid-r2k {
+  vertical-align: top;
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+  margin-right: 1.4rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  position: relative;
+  -o-object-fit: contain;
+     object-fit: contain;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .auto-group-t4cg-rSt .typo-and-colors-Ng8 .group-1000004385-6c8 .frame-1000004945-jDi .frame-1000004933-2ic .comment-C6c {
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+  margin-right: 1.4rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  -o-object-fit: contain;
+     object-fit: contain;
+  vertical-align: top;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .auto-group-t4cg-rSt .typo-and-colors-Ng8 .group-1000004385-6c8 .frame-1000004945-jDi .frame-1000004933-2ic .fullscreen-LCp {
+  height: 2.4rem;
+  -o-object-fit: contain;
+     object-fit: contain;
+  vertical-align: top;
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+  margin-right: 1.4rem;
+  width: 2.4rem;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .auto-group-t4cg-rSt .typo-and-colors-Ng8 .group-1000004385-6c8 .frame-1000004945-jDi .frame-1000004933-2ic .minus-tEL {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: relative;
+  -o-object-fit: contain;
+     object-fit: contain;
+  vertical-align: top;
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+  margin-right: 1.4rem;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .auto-group-t4cg-rSt .typo-and-colors-Ng8 .group-1000004385-6c8 .frame-1000004945-jDi .frame-1000004933-2ic .plus-dxc {
+  width: 2.4rem;
+  height: 2.4rem;
+  -o-object-fit: contain;
+     object-fit: contain;
+  vertical-align: top;
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+  margin-right: 1.4rem;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .auto-group-t4cg-rSt .typo-and-colors-Ng8 .group-1000004385-6c8 .frame-1000004945-jDi .frame-1000004933-2ic .arrow-Pgt {
+  -o-object-fit: contain;
+     object-fit: contain;
+  vertical-align: top;
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+  margin-right: 1.4rem;
+  width: 2.9rem;
+  height: 2.9rem;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .auto-group-t4cg-rSt .typo-and-colors-Ng8 .group-1000004385-6c8 .frame-1000004945-jDi .frame-1000004933-2ic .profile-k1e {
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+  width: 2.4rem;
+  height: 2.4rem;
+  -o-object-fit: contain;
+     object-fit: contain;
+  vertical-align: top;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .auto-group-t4cg-rSt .more-work-Fyz {
+  width: 100%;
+  row-gap: 5.5rem;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .auto-group-t4cg-rSt .more-work-Fyz .more-work-Dfv {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  font-size: 5.5rem;
+  font-weight: 500;
+  line-height: 1.3818181818;
+  color: #000000;
+  font-family: Public Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .auto-group-t4cg-rSt .more-work-Fyz .a-mBe {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+  width: 100%;
+  height: 41.2984rem;
+  cursor: pointer;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .auto-group-t4cg-rSt .more-work-Fyz .a-mBe .frame-1410114918-uoe {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+  margin: 10.602rem 11.5rem 13.797rem 0rem;
+  height: calc(100% - 24.3984rem);
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .auto-group-t4cg-rSt .more-work-Fyz .a-mBe .frame-1410114918-uoe .frame-1410114917-F6p {
+  margin-bottom: 4.2rem;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .auto-group-t4cg-rSt .more-work-Fyz .a-mBe .frame-1410114918-uoe .frame-1410114917-F6p .epacts-oPE {
+  line-height: 1.375;
+  font-family: Public Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  font-size: 3.2rem;
+  font-weight: 500;
+  margin-bottom: 0.9rem;
+  color: #000000;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .auto-group-t4cg-rSt .more-work-Fyz .a-mBe .frame-1410114918-uoe .frame-1410114917-F6p .website-design-KcU {
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  font-weight: 300;
+  letter-spacing: 0.3rem;
+  text-transform: uppercase;
+  color: #000000;
+  font-family: Public Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  font-size: 2rem;
+  line-height: 1.2;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .auto-group-t4cg-rSt .more-work-Fyz .a-mBe .frame-1410114918-uoe .e-pacts-provides-enterprise-class-it-security-services-for-consultancy-sustenance-and-implementation-Sh6 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 300;
+  line-height: 1.3888888889;
+  color: #000000;
+  font-family: Public Sans, 'Source Sans Pro';
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+  max-width: 43.9rem;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .auto-group-t4cg-rSt .more-work-Fyz .a-mBe .div-YEL {
+  padding: 5.302rem 7.5rem 0rem 7.5rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  background-color: #f0f0f0;
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .auto-group-t4cg-rSt .more-work-Fyz .a-mBe .div-YEL .b932b7d45a7a1ed097fe76portfolio204-min-p-800jpg-5k4 {
+  background-size: 101.299% 100.829%;
+  background-position: -0.3748rem -0.3016rem;
+  background-image: url("REPLACE_IMAGE:a6ea490fc24b7b01473093eeea9691b20408decb");
+  width: 57.6rem;
+  height: 36rem;
+  position: relative;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .auto-group-t4cg-rSt .more-work-Fyz .a-Xrx {
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  padding-right: 2.2rem;
+  width: 100%;
+  height: 41.2984rem;
+  cursor: pointer;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .auto-group-t4cg-rSt .more-work-Fyz .a-Xrx .div-svp {
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  background-color: #f0f0f0;
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+  margin-right: 7rem;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  padding: 5.003rem 7.4rem 0rem 7.3rem;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .auto-group-t4cg-rSt .more-work-Fyz .a-Xrx .div-svp .b932267ee4c7e299e0ef61portfolio202-min-p-800jpg-Cy6 {
+  width: 57.9rem;
+  height: 36.3rem;
+  -o-object-fit: cover;
+     object-fit: cover;
+  vertical-align: top;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .auto-group-t4cg-rSt .more-work-Fyz .a-Xrx .frame-1410114920-864 {
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+  margin: 9.303rem 0rem 10.095rem 0rem;
+  height: calc(100% - 19.3984rem);
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .auto-group-t4cg-rSt .more-work-Fyz .a-Xrx .frame-1410114920-864 .frame-1410114919-TPE {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+  margin-bottom: 4.2rem;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .auto-group-t4cg-rSt .more-work-Fyz .a-Xrx .frame-1410114920-864 .frame-1410114919-TPE .redesign-DNQ {
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  font-weight: 500;
+  line-height: 1.375;
+  font-family: Public Sans, 'Source Sans Pro';
+  margin-bottom: 0.9rem;
+  font-size: 3.2rem;
+  color: #000000;
+  white-space: nowrap;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .auto-group-t4cg-rSt .more-work-Fyz .a-Xrx .frame-1410114920-864 .frame-1410114919-TPE .ui-redesign-9Wx {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  line-height: 1.2;
+  text-transform: uppercase;
+  font-family: Public Sans, 'Source Sans Pro';
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+  font-size: 2rem;
+  font-weight: 300;
+  letter-spacing: 0.3rem;
+  color: #000000;
+  white-space: nowrap;
+}
+
+.panoram-xwz .div-HzG .main-KRA .frame-1000004894-5QL .auto-group-t4cg-rSt .more-work-Fyz .a-Xrx .frame-1410114920-864 .redesigned-software-websites-and-apps-of-some-of-the-most-liked-intuitive-products-in-the-market-note-these-designs-are-non-functional-and-do-not-belong-to-the-respective-brands-rwA {
+  color: #000000;
+  font-family: Public Sans, 'Source Sans Pro';
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+  max-width: 46.2rem;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 300;
+  line-height: 1.3888888889;
+}
+
+body {
+  background-color: #000;
+}
+
+.overlay {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: -webkit-gradient(linear, left top, left bottom, from(rgba(14, 29, 51, 0.8)), to(rgba(14, 29, 51, 0.2)));
+  background: linear-gradient(to bottom, rgba(14, 29, 51, 0.8), rgba(14, 29, 51, 0.2));
+}
+
+.hero-slider {
+  width: 100%;
+  height: 100vh;
+  overflow: hidden;
+}
+
+.hero-slider .carousel-cell {
+  width: 100%;
+  height: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.hero-slider .carousel-cell .inner {
+  position: relative;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+          transform: translateY(-50%);
+  color: white;
+  text-align: center;
+}
+
+.hero-slider .carousel-cell .inner .subtitle {
+  font-family: "Roboto Slab", serif;
+  font-size: 2.2rem;
+  line-height: 1.2em;
+  font-weight: 200;
+  font-style: italic;
+  letter-spacing: 3px;
+  color: rgba(255, 255, 255, 0.5);
+  margin-bottom: 5px;
+}
+
+.hero-slider .carousel-cell .inner .title {
+  font-family: "Montserrat", sans-serif;
+  font-size: 3rem;
+  line-height: 1.2em;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  margin-bottom: 40px;
+}
+
+.hero-slider .carousel-cell .inner .btn {
+  border: 1px solid #fff;
+  padding: 14px 18px;
+  text-transform: uppercase;
+  font-family: "Montserrat", sans-serif;
+  font-size: 0.8rem;
+  letter-spacing: 3px;
+  color: #fff;
+  text-decoration: none;
+  -webkit-transition: all .2s ease;
+  transition: all .2s ease;
+}
+
+.hero-slider .carousel-cell .inner .btn:hover {
+  background: #fff;
+  color: #000;
+}
+
+.hero-slider .flickity-prev-next-button {
+  width: 80px;
+  height: 80px;
+  background: transparent;
+}
+
+.hero-slider .flickity-prev-next-button:hover {
+  background: transparent;
+}
+
+.hero-slider .flickity-prev-next-button .arrow {
+  fill: white;
+}
+
+.hero-slider .flickity-page-dots {
+  bottom: 30px;
+}
+
+.hero-slider .flickity-page-dots .dot {
+  width: 30px;
+  height: 4px;
+  opacity: 1;
+  background: rgba(255, 255, 255, 0.5);
+  border: 0 solid white;
+  border-radius: 0;
+}
+
+.hero-slider .flickity-page-dots .dot.is-selected {
+  background: #ff0000;
+  border: 0 solid #ff0000;
+}
+/*# sourceMappingURL=panoram.css.map */
