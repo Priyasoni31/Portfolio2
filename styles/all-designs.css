@@ -27,7 +27,7 @@ body {
   width: 151.2rem;
 }.all-designs-5ZA {
   width: 100%;
-  height: 679rem;
+ 
   position: relative;
   background-color: #ffffff;
 }
@@ -46,7 +46,7 @@ body {
   box-sizing: border-box;
   padding-bottom: 7.8031rem;
   width: 151.2rem;
-  height: 678.9rem;
+  height: 720rem;
   position: absolute;
   left: 0;
   top: 0;
@@ -226,25 +226,29 @@ body {
   display: flex;
   align-items: center;
   flex-shrink: 0;
+  margin-left: -10rem;
 }
 .all-designs-5ZA .main-R7E .auto-group-hfnp-j7v .web-mAQ .adidas-1-vJC {
-  margin-right: 3rem;
-  width: 63.4rem;
-  height: 184.8rem;
+  margin-right: 0rem;
+  width: 70rem;
+  height: 250rem;
   position: relative;
-  background-size: 100.038% 101.353%;
-  background-position: -0.012rem 0;
-  background-image: url('../assets/adidas-1.png');
+  background-size: 100% 100%;
+  background-position: -0rem 0;
+  background-image: url('../assets/strivemindz.jpg');
   flex-shrink: 0;
+  background-repeat: no-repeat;
 }
 .all-designs-5ZA .main-R7E .auto-group-hfnp-j7v .web-mAQ .group-23-cRv {
-  width: 62.1rem;
-  height: 184.8rem;
+  width: 70rem;
+  height: 250rem;
   position: relative;
-  background-size: 116.822% 101.443%;
-  background-position: -1.4rem -1.3829rem;
-  background-image: url('../assets/group-23.png');
+  
+  background-size: 100% 101.443%;
+  background-position: -0rem -1.3829rem;
+  background-image: url('../assets/topwork.jpg');
   flex-shrink: 0;
+  background-repeat: no-repeat;
 }
 .all-designs-5ZA .main-R7E .auto-group-hfnp-j7v .tab-WnC {
   margin-left: 0.2rem;
@@ -254,10 +258,10 @@ body {
   flex-shrink: 0;
 }
 .all-designs-5ZA .main-R7E .auto-group-hfnp-j7v .tab-WnC .smartmockupslepdjru8-ff6 {
-  margin: 0rem 1.8rem 0.014rem 0rem;
-  width: 56.9rem;
-  height: 81.2857rem;
-  object-fit: cover;
+  margin-top: -20rem;
+  
+  height: 62rem;
+  object-fit: contain;
   vertical-align: top;
   flex-shrink: 0;
 }
@@ -267,7 +271,7 @@ body {
   position: relative;
   background-size: 142.819% 100.685%;
   background-position: -24.9021rem 0rem;
-  background-image: url('../assets/-NFa.png');
+  background-image: url('../assets/service\ provider');
   flex-shrink: 0;
 }
 .all-designs-5ZA .main-R7E .designs-4BS {
@@ -288,46 +292,47 @@ body {
 }
 .all-designs-5ZA .main-R7E .designs-4BS .auto-group-psty-oep .pngwing-iWt {
   width: 43.6938rem;
-  height: 42.8235rem;
+  height: 32.8235rem;
   position: absolute;
-  left: 117.8rem;
-  top: 437.8rem;
+  left: 120.8rem;
+  top: 445rem;
   object-fit: cover;
   vertical-align: top;
+  z-index: 3;
 }
 .all-designs-5ZA .main-R7E .designs-4BS .auto-group-psty-oep .item-23126615205-1-Sxg {
-  width: 95rem;
-  height: 92rem;
+  
+  height: 62rem;
   position: absolute;
-  left: 65rem;
-  top: 315rem;
+  left: 79rem;
+  top: 323.5rem;
   object-fit: contain;
   vertical-align: top;
 }
 .all-designs-5ZA .main-R7E .designs-4BS .auto-group-psty-oep .untitled-1gfh-ANt {
-  width: 75.6rem;
-  height: 54.4rem;
+  
+  height: 62rem;
   position: absolute;
-  left: 82.8rem;
+  left: 79rem;
   top: 391.2rem;
   object-fit: contain;
   vertical-align: top;
 }
 .all-designs-5ZA .main-R7E .designs-4BS .auto-group-psty-oep .group-6-1-JV6 {
-  width: 90.1793rem;
-  height: 75.8896rem;
+  
+  height: 62rem;
   position: absolute;
-  left: -8.4829rem;
-  top: 405.3635rem;
+  left: 11rem;
+  top: 460rem;
   object-fit: cover;
   vertical-align: top;
 }
 .all-designs-5ZA .main-R7E .designs-4BS .auto-group-psty-oep .tabletandlaptopontransparentbackground-dGU {
-  width: 86.5rem;
-  height: 46rem;
+  
+  height: 62rem;
   position: absolute;
   left: 11.3rem;
-  top: 351.1rem;
+  top: 390rem;
   object-fit: contain;
   vertical-align: top;
 }
@@ -349,6 +354,7 @@ body {
   background-size: 100% 131.063%;
   background-position: 0 -1.0585rem;
   background-image: url('../assets/pngwing.png');
+  /* */
 }
 .all-designs-5ZA .main-R7E .designs-4BS .auto-group-psty-oep .pngwing-2-zmE {
   width: 26.0183rem;
@@ -356,7 +362,8 @@ body {
   position: relative;
   background-size: 169.954% 100%;
   background-position: -9.327rem -0rem;
-  background-image: url('../assets/pngwing-2.png');
+  background-image: url('../ssets/pngwing-2.png');
+  z-index: 3;
 }
 .all-designs-5ZA .main-R7E .designs-4BS .auto-group-psty-oep .pngwing-3-KYc {
   width: 22.0962rem;
@@ -375,39 +382,53 @@ body {
   flex-shrink: 0;
 }
 .all-designs-5ZA .main-R7E .designs-4BS .group-1000004389-FhA .gggggg-1-ydA {
-  width: 88.8rem;
-  height: 64.3rem;
+  width: 69.6rem;
+  height: 81.3rem;
   position: relative;
-  left: 0;
-  top: 10.3rem;
-  background-size: 100.092% 100.467%;
+  background-size: 90% 75%;
+  left: 2.5rem;
+  top: -20.3rem;
+  background-repeat: no-repeat;
   background-position: -0.041rem 0;
-  background-image: url('../assets/gggggg-1.png');
+  background-image: url('../assets/shreni.png');
 }
-.all-designs-5ZA .main-R7E .designs-4BS .group-1000004389-FhA .rectangle-2779-Hdr {
+ /* .all-designs-5ZA .main-R7E .designs-4BS .group-1000004389-FhA .rectangle-2779-Hdr {
   width: 73.5rem;
   height: 64.3rem;
   position: absolute;
   left: 77.7rem;
-  top: 10.3rem;
-  background: linear-gradient(180deg, #ffffff 0%, #f9f9f9 11.77%, #e4e4e4 38.85%, #d1d1d1 58.65%, #c1c1c1 67.5%, #aaaaaa 100%);
-}
-.all-designs-5ZA .main-R7E .designs-4BS .group-1000004389-FhA .group-1000004388-NvC {
-  width: 63.8538rem;
-  height: 74.1339rem;
+  top: -29.7rem;
+  backgroun:d linear-gradient(180deg, #ffffff 0%, #f9f9f9 11.77%, #e4e4e4 38.85%, #d1d1d1 58.65%, #c1c1c1 67.5%, #aaaaaa 100%);
+}*/
+.all-designs-5ZA .main-R7E .designs-4BS .auto-group-psty-oep  .group-1000004388-NvC {
+  
+  height: 62rem;
   position: absolute;
-  left: 82.5rem;
-  top: 0;
+  left: 79.6rem;
+  top: 460rem;
   object-fit: contain;
   vertical-align: top;
+}
+.all-designs-5ZA .main-R7E .designs-4BS .auto-group-psty-oep  .unicas {
+  
+  height: 62rem;
+  position: absolute;
+  left: 79.6rem;
+  top: 530rem;
+  object-fit: contain;
+  vertical-align: top;
+  z-index: 3;
 }
 .all-designs-5ZA .main-R7E .more-work-KKe {
   margin: 0 11.6rem;
   width: calc(100% - 23.2rem);
+  height:80rem;
   row-gap: 5.5rem;
   display: flex;
   flex-direction: column;
   flex-shrink: 0;
+  margin-top: -30rem;
+  
 }
 .all-designs-5ZA .main-R7E .more-work-KKe .more-work-raU {
   display: flex;
@@ -494,7 +515,7 @@ body {
 }
 .all-designs-5ZA .main-R7E .more-work-KKe .a-zc8 {
   width: 100%;
-  height: 41.2984rem;
+  height: 51.2984rem;
   cursor: pointer;
   display: flex;
   align-items: center;
@@ -561,6 +582,7 @@ body {
   position: relative;
   background-size: 101.299% 100.829%;
   background-position: -0.3748rem -0.3016rem;
-  background-image: url('../assets/b932b7d45a7a1ed097fe76portfolio204-min-p-800jpg.png');
+  background-image: url('../assets/The\ registry\ thumbnail.png');
+  
 }
 
