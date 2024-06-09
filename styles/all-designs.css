@@ -46,7 +46,7 @@ body {
   box-sizing: border-box;
   padding-bottom: 7.8031rem;
   width: 151.2rem;
-  height: 720rem;
+  height: 650rem;
   position: absolute;
   left: 0;
   top: 0;
@@ -231,7 +231,7 @@ body {
 .all-designs-5ZA .main-R7E .auto-group-hfnp-j7v .web-mAQ .adidas-1-vJC {
   margin-right: 0rem;
   width: 70rem;
-  height: 250rem;
+  height: 175rem;
   position: relative;
   background-size: 100% 100%;
   background-position: -0rem 0;
@@ -241,12 +241,12 @@ body {
 }
 .all-designs-5ZA .main-R7E .auto-group-hfnp-j7v .web-mAQ .group-23-cRv {
   width: 70rem;
-  height: 250rem;
+  height: 172rem;
   position: relative;
   
   background-size: 100% 101.443%;
   background-position: -0rem -1.3829rem;
-  background-image: url('../assets/topwork.jpg');
+  background-image: url('../assets/registryHome.jpg');
   flex-shrink: 0;
   background-repeat: no-repeat;
 }
@@ -305,7 +305,7 @@ body {
   height: 62rem;
   position: absolute;
   left: 79rem;
-  top: 323.5rem;
+  top: 248rem;
   object-fit: contain;
   vertical-align: top;
 }
@@ -323,7 +323,7 @@ body {
   height: 62rem;
   position: absolute;
   left: 11rem;
-  top: 460rem;
+  top: 319rem;
   object-fit: cover;
   vertical-align: top;
 }
@@ -414,10 +414,10 @@ body {
   height: 62rem;
   position: absolute;
   left: 79.6rem;
-  top: 530rem;
+  top: 319rem;
   object-fit: contain;
   vertical-align: top;
-  z-index: 3;
+  z-index: -1;
 }
 .all-designs-5ZA .main-R7E .more-work-KKe {
   margin: 0 11.6rem;

@@ -263,7 +263,7 @@ body {
   flex-shrink: 0;
 }
 .epacts-UxG .div-1xC .main-eEU .frame-124-nrU .auto-group-tq3s-t88 .frame-134-DRJ {
-  margin: 0rem 2rem 18.25rem 0rem;
+  margin: 0rem 2rem 15rem 0rem;
   width: calc(100% - 2rem);
   display: flex;
   align-items: center;
@@ -271,6 +271,7 @@ body {
 }
 .epacts-UxG .div-1xC .main-eEU .frame-124-nrU .auto-group-tq3s-t88 .frame-134-DRJ .about-MXW {
   margin-right: 39.6rem;
+  margin-top: -10rem;
   display: flex;
   font-size: 5.5rem;
   font-weight: 500;
@@ -312,15 +313,16 @@ body {
   font-family: Public Sans, 'Source Sans Pro';
 }
 .epacts-UxG .div-1xC .main-eEU .frame-124-nrU .auto-group-tq3s-t88 .display-3UC {
-  margin: 0rem 0.15rem 17.5rem 0.15rem;
+  margin: -10rem -15rem 15rem -10rem;
   box-sizing: border-box;
-  padding: 1.8391rem 21.5621rem;
-  width: 100%;
-  height: 65rem;
-  background-size: 100.018% 113.892%;
-  background-position: -0.0383rem 0rem;
+  padding: 0rem 0rem;
+  width: 155rem;
+  height: 80rem;
+  background-size: 100% 90%;
+  background-position: 0rem 0rem;
   background-image: url('../assets/All\ screens.png');
   flex-shrink: 0;
+  background-repeat: no-repeat;
 }
 .epacts-UxG .div-1xC .main-eEU .frame-124-nrU .auto-group-tq3s-t88 .display-3UC .rectangle-2714-x5N {
   width: 12.9216rem;
